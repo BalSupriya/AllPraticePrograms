@@ -1,0 +1,43 @@
+server:
+  port: 9787
+  
+  
+spring:
+   mail:
+    host: smtp.gmail.com
+    port: 587
+    username: supriyabal1996@gmail.com
+    password: 9178352289
+   
+    properties:
+      mail:
+        smtp:
+          auth: true
+          #connectiontimeout: 5000
+          starttls:
+            enable: true
+   jpa: 
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate: 
+        format_sql: true
+    
+    
+   datasource: 
+    username: scott
+    password: supi
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    #driver-class-name: oracle.jdbc.driver.OracleDriver
+    
+    
+   mvc: 
+    view:
+      prefix: /view/
+      suffix: .jsp
+ 
+          #timeout: 5000
+          #writetimeout: 5000
+   
+  
