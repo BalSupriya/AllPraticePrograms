@@ -1,0 +1,17 @@
+
+  
+
+  Hi <FNAME> <LNAME>,<br>
+
+  Welcome to our family.Thank you for registering here, <br>
+  Your registration is almost completed.<br>
+  Please follow below instruction to unlock your account.<br>
+
+  Temporary Password : <TEMP-PASS><br>
+  
+
+<a href="http://localhost:9787/getUnlock?email=<email>">click Here</a><br>
+   
+  Thank You & Regards<br><br>
+        
+      Team

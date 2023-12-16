@@ -1,0 +1,13 @@
+
+
+ Hi <FNAME> <LNAME>,<br>
+ 
+  
+     Your Password : <PWD><br>
+    Pls use this password to login.
+   
+   
+   
+   Thank You & Regards<br>
+        Team
+   
